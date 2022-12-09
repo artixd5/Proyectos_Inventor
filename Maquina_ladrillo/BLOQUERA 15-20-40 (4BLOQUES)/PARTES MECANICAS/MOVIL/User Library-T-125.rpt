@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : T-125.SLDPRT
+Recibiendo I.D. de producto de sistema: T-125.SLDPRT
+Nombre de archivo                    : \\PSSILO\catalogs\ContentCentral\T-125\Cache\93AE91BF-B72A-4FC7-8E80-9BA63E2ED834.IGS
+Enviando sistema               : SolidWorks 2019
+Versión de preprocesador         : SolidWorks 2019
+Fecha de creación del archivo           : 200502.214337
+Fecha de creación del modelo          : 200502.214337
+Unidades                        : IN
+Escala espacial del modelo            : 1
+Autor                       : partstream
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              10
+  Número de dígitos significativos más alto:                     11
+  Número de dígitos significativos promedio:                7.76201
+  Distancia máxima hasta el origen:                          72.4582
+  Distancia mínima hasta el origen:                          0.01785
+  Número de dígitos significativos efectivo:              10.9998
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                            238       238
+102  Composite curve                                254       254
+110  Line                                           350       350
+120  Surface of revolution                           55        55
+124  Transformation matrix                          204       204
+126  Rational B-spline curve                        567       567
+128  Rational B-spline surface                       58        58
+142  Curve on a parametric surface                  127       127
+144  Trimmed parametric surface                     113       111
+314  Color definition                                20        20
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: sábado, mayo 02, 2020 20:45:13
+Hora de finalización: sábado, mayo 02, 2020 20:45:17
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 04 secs
